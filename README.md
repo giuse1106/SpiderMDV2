@@ -28,10 +28,10 @@
 
  `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
 
-   <a href="https://github.com/MoonContentCreator/BixbyBot-Md/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
+   <a href="https://github.com/Giuse1106/SpiderMDV2/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
  <br> 
- - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/fork) 
- - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/blob/master/config.js) 
+ - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/Giuse1106/SpiderMDV2/fork) 
+ - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/Giuse1106/SpiderMDV2/blob/master/config.js) 
 
 
 
@@ -51,7 +51,7 @@
 
  ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮` 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git && cd BixbyBot-Md
+ cd /sdcard && rm -rf SpiderMDV2 && git clone https://github.com/Giuse1106/SpiderMDV2.git && cd BixbyBot-Md
  ``` 
  COPIALO TUTTO E INCOLLALO SU TERMUX, NON COPIARE MEZZA O UNA COSA, E' TUTTO INSIEME 
 
@@ -82,11 +82,11 @@
  ```     
 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git
+ cd /sdcard && rm -rf SpiderMDV2 && git clone https://github.com/Giuse1106/SpiderMDV2.git
  ``` 
 
  ```bash 
- cd /sdcard/BixbyBot-Md 
+ cd /sdcard/SpiderMDV2
  ```   
 
  ```bash 
@@ -97,11 +97,11 @@
  npm start
  ``` 
 
- ### `✦ 𝐀𝐕𝐕𝐈𝐀 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
+ ### `✦ 𝐀𝐕𝐕𝐈𝐀 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
 
  DIGITA QUESTI COMANDI: 
  ```bash 
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/SpiderMDV2
  ``` 
  ```bash 
  > npm start
@@ -117,7 +117,7 @@
 
  DIGITA QUESTI COMANDI: 
  ```
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/SpiderMDV2
  ``` 
  ```bash 
  > rm -rf Sessioni 
